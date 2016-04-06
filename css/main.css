@@ -1,0 +1,69 @@
+header{
+	background-image: url("../img/background/hero.jpg");
+	height: 1000px;
+	margin: 0 auto;
+}
+
+.bg-black{
+	background-color: black;
+	opacity: 0.5;
+	width: 1287px;
+	height: 1000px;
+	position: relative;
+	right: 75px;
+}
+
+.l h1{
+	color: white;
+	position: relative;
+	bottom: 1000px;
+}
+
+.l a{
+	text-decoration: none;
+}
+
+.l ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	position: relative;
+	float: right;
+	font-size: 15px;
+	white-space: nowrap;
+}
+
+.l li{
+	position: relative;
+	bottom: 1000px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.l h6{
+	position: relative;
+	bottom: 900px;
+	left: 300px;
+	font-size: 20px;
+}
+
+.l p{
+	position: relative;
+	bottom: 900px;
+	left: 300px;
+	color: white;
+}
+
+.l button a{
+	color: white;
+}
+
+.l button{
+ 	position: relative;
+ 	bottom: 850px;
+ 	background-color: black
+
+ }
